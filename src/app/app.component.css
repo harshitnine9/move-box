@@ -1,0 +1,9 @@
+.Box_Rect
+{
+    background-color: lightgrey;
+  width: 900px;
+  height: 700px;
+  border: 15px solid rgb(21, 22, 21);
+  padding: 50px;
+  margin: 20px;
+}
